@@ -1,16 +1,8 @@
 # phase-0-gps-1
 
-git branch lists the branches
-
-git checkout [branch-name] changes branch
-
-git clone adds url
-
-rm -rf remove directory and contents
-
-ls list file contents
-
-pwd list place in folders
-
-
+git clone : clones remote repo
+git checkout: moves into another branch
+git branch: shows local branchs
+git checkout -b: creates and goes to new branch
+rm -rf: remove repo
 
